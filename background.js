@@ -10,8 +10,8 @@ function loadDoc() {
           
               html += "<tr>" 
                   html += "<td></td>"                  
-                  html += "<td>" + elem.total_obitos + "</td>"
                   html += "<td>" + elem.total_confirmado + "</td>"
+                  html += "<td>" + elem.total_obitos + "</td>"
                   html += "<td>" + elem.total_letalidade + "</td>"                  
               html += "</tr>"
                                                     
