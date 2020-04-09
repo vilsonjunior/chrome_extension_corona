@@ -16,8 +16,8 @@ Guia de instalação:
 
 Referências:
 
-https://developer.chrome.com/extensions/getstarted
-https://support.google.com/chrome/a/answer/2714278?hl=pt-BR
+<https://developer.chrome.com/extensions/getstarted >
+<https://support.google.com/chrome/a/answer/2714278?hl=pt-BR>
 
 Autores:
 - Vilson Júnior: github.com/vilsonjunior
