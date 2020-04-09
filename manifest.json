@@ -1,0 +1,23 @@
+{
+    "name": "Extension Corona",
+    "version": "1.0",
+    "description": "Informações pontuais das ocorrências de COVID-19 no Brasil",
+    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "author": "Vilson Junior & Bruno Reis",        
+    "browser_action": {
+        "default_icon": {			
+			"35": "images/128.png"
+		},
+        
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "images/128.png",
+        "35": "images/128.png",
+        "48": "images/128.png",
+        "128": "images/128.png"
+    },
+    
+    "manifest_version": 2
+    
+  }
